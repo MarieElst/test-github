@@ -1,0 +1,14 @@
+/* style.css */
+
+body {
+	background-color: orange;
+	font-size: 25px; 
+	font-family: Helvetica;
+}
+
+h1 {
+	font-family: Helvetica;
+	color: #E84855;
+	font-weight: light;
+
+}
